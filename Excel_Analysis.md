@@ -1,5 +1,6 @@
-Calculate total Sales by region using a pivot Table and identify the top-performing region.
-<img width="1459" height="81" alt="image" src="https://github.com/user-attachments/assets/ab705f08-938e-4290-91a6-2adc7c70288d" />
+1.Calculate total Sales by region using a pivot Table and identify the top-performing region.
+<img width="327" height="200" alt="image" src="https://github.com/user-attachments/assets/407ed38d-1b1b-44c3-8903-380679662315" />
+
 
 
 
